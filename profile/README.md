@@ -2,6 +2,7 @@
 ```sh
 #You are not allowed to create repository inside this organization 
 ```
+<span style="color:blue">some *blue* text</span>.
 <!--
 
 **Here are some ideas to get you started:**
