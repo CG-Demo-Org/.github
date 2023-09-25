@@ -1,4 +1,4 @@
-# You are not allowed to create repository inside this organization 👋
+<span style="color: red"># You are not allowed to create repository inside this organization </span>
 
 <!--
 
