@@ -1,4 +1,4 @@
-## Hi there 👋
+### You are not allowed to create repository inside this organization 👋
 
 <!--
 
