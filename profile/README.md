@@ -1,9 +1,5 @@
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-<h1>You are not allowed to create repository inside this organizatio.</h1>
-```sh
-#You are not allowed to create repository inside this organization 
-```
-<span style="color:blue">some *blue* text</span>.
+
+<h1>You are not allowed to create repository inside this organizatio. if you create it will be deleted by Group IT without any intimation</h1>
 <!--
 
 **Here are some ideas to get you started:**
