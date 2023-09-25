@@ -1,4 +1,4 @@
-<span style="color: red"># You are not allowed to create repository inside this organization </span>
+#<span style="color: lightblue"> You are not allowed to create repository inside this organization </span>
 
 <!--
 
