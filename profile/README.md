@@ -1,6 +1,6 @@
 
 <h1>You are not allowed to create repository inside this organizatio. </h1>
-*if you create it will be deleted by Group IT without any intimation*
+**if you create it will be deleted by Group IT without any intimation**
 <!--
 
 **Here are some ideas to get you started:**
