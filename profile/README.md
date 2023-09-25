@@ -1,5 +1,7 @@
-<span style='color: red;'> You are not allowed to create repository inside this organization </span>
 
+```sh
+#You are not allowed to create repository inside this organization 
+```
 <!--
 
 **Here are some ideas to get you started:**
