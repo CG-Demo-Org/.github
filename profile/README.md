@@ -1,9 +1,6 @@
 
 <h1>You are not allowed to create repository inside this organization. </h1>
-
-```sh
-if anyone create repository inside, it will be deleted by Group IT without any intimation
-```
+<h3>if anyone create repository inside, it will be deleted by Group IT without any intimation</h3>
 <!--
 
 **Here are some ideas to get you started:**
